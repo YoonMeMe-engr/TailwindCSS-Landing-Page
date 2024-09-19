@@ -135,12 +135,12 @@ window.addEventListener("scroll", scrollActive);
 
 // ScrollReveal
 
-ScrollReveal().reveal('.headline', { 
-  delay: 500,
-  distance: '50px' ,
-  interval: 300,
-  opacity: 0.8,
-  origin: 'bottom',
-  scale: 0.85,
-  reset: true
-});
+// ScrollReveal().reveal('.headline', { 
+//   delay: 500,
+//   distance: '50px' ,
+//   interval: 300,
+//   opacity: 0.8,
+//   origin: 'bottom',
+//   scale: 0.85,
+//   reset: true
+// });
